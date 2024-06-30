@@ -33,7 +33,7 @@ El token sirve como la identidad que describe al usuario registrado. Luego podra
 
 No olvidemos agregar el **DELETE** con la misma direccion ya que el mapeo de los topicos esta manejado con el prefijo *topic*.
 
-**Se elimna el topic con el id 2**.
+**Se elimina el topic con el id 2**.
 
 ![Imgn 6](https://github.com/matexxe/Literatura-consola-app/assets/158209261/6d1136cf-1a3a-4388-a773-66fc8536d7a6)
 
